@@ -15,7 +15,7 @@ pylint==1.8.2
 pylint-django==0.9.0
 pytz==2018.3
 singledispatch==3.4.0.3
-six==1.10.0
+six==1.11.0
 virtualenv==15.1.0
 wrapt==1.10.10
 django-webtest==1.9.2
